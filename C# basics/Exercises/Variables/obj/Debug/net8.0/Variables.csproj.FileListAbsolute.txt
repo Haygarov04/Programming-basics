@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Variables\Variables\obj\Debug\net8.0\ref\Variables.dll
