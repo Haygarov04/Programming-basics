@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Loops\obj\Debug\net8.0\ref\Loops.dll
