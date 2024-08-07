@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\bin\Debug\net8.0\Arrays-2.exe
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\bin\Debug\net8.0\Arrays-2.deps.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\bin\Debug\net8.0\Arrays-2.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\bin\Debug\net8.0\Arrays-2.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\bin\Debug\net8.0\Arrays-2.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\Arrays-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\Arrays-2.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\Arrays-2.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\Arrays-2.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\Arrays-2.sourcelink.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\Arrays-2.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\refint\Arrays-2.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\Arrays-2.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\Arrays-2.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\Arrays-2\obj\Debug\net8.0\ref\Arrays-2.dll

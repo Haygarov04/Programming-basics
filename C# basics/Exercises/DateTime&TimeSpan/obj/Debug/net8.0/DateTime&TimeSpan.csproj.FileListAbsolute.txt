@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\bin\Debug\net8.0\DateTime&TimeSpan.exe
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\bin\Debug\net8.0\DateTime&TimeSpan.deps.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\bin\Debug\net8.0\DateTime&TimeSpan.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\bin\Debug\net8.0\DateTime&TimeSpan.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\bin\Debug\net8.0\DateTime&TimeSpan.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\DateTime&TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\DateTime&TimeSpan.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\DateTime&TimeSpan.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\DateTime&TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\DateTime&TimeSpan.sourcelink.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\DateTime&TimeSpan.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\refint\DateTime&TimeSpan.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\DateTime&TimeSpan.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\DateTime&TimeSpan.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\DateTime&TimeSpan\obj\Debug\net8.0\ref\DateTime&TimeSpan.dll
