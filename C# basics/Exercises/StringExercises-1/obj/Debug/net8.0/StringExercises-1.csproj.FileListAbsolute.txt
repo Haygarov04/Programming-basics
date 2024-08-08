@@ -1,0 +1,15 @@
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\bin\Debug\net8.0\StringExercises-1.exe
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\bin\Debug\net8.0\StringExercises-1.deps.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\bin\Debug\net8.0\StringExercises-1.runtimeconfig.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\bin\Debug\net8.0\StringExercises-1.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\bin\Debug\net8.0\StringExercises-1.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\StringExercises-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\StringExercises-1.AssemblyInfoInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\StringExercises-1.AssemblyInfo.cs
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\StringExercises-1.csproj.CoreCompileInputs.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\StringExercises-1.sourcelink.json
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\StringExercises-1.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\refint\StringExercises-1.dll
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\StringExercises-1.pdb
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\StringExercises-1.genruntimeconfig.cache
+C:\Users\velis\Desktop\Programing\Programming-basics\C# basics\Exercises\StringExercises-1\obj\Debug\net8.0\ref\StringExercises-1.dll
