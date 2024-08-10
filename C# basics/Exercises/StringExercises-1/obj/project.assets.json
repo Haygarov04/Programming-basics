@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercises-1\\StringExercises-1.csproj",
-      "projectName": "StringExercises-1",
-      "projectPath": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercises-1\\StringExercises-1.csproj",
+      "projectUniqueName": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercises-1\\StringExercise-1.csproj",
+      "projectName": "StringExercise-1",
+      "projectPath": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercises-1\\StringExercise-1.csproj",
       "packagesPath": "C:\\Users\\velis\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercises-1\\obj\\",
       "projectStyle": "PackageReference",
