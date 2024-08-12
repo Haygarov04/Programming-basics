@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4129451-5C20-4168-852A-BF8F3C6D6137}|trinStringExercise-4\\trinStringExercise-4.csproj|c:\\users\\velis\\desktop\\programing\\programming-basics\\c# basics\\exercises\\trinstringexercise-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4129451-5C20-4168-852A-BF8F3C6D6137}|trinStringExercise-4\\trinStringExercise-4.csproj|solutionrelative:trinstringexercise-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB0F5D35-0673-47FD-83D1-DA213D08D69F}|StringExercise-3\\StringExercise-3.csproj|c:\\users\\velis\\desktop\\programing\\programming-basics\\c# basics\\exercises\\stringexercise-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB0F5D35-0673-47FD-83D1-DA213D08D69F}|StringExercise-3\\StringExercise-3.csproj|solutionrelative:stringexercise-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{60E8F617-0209-4BB5-A97C-6EC0E2CD2050}|StringExercise-2\\StringExercise-2.csproj|c:\\users\\velis\\desktop\\programing\\programming-basics\\c# basics\\exercises\\stringexercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60E8F617-0209-4BB5-A97C-6EC0E2CD2050}|StringExercise-2\\StringExercise-2.csproj|solutionrelative:stringexercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C92A532-C2BF-4E23-AF49-9AA57991943C}|StringExercises-1\\StringExercises-1.csproj|c:\\users\\velis\\desktop\\programing\\programming-basics\\c# basics\\exercises\\stringexercises-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C92A532-C2BF-4E23-AF49-9AA57991943C}|StringExercises-1\\StringExercises-1.csproj|solutionrelative:stringexercises-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64EC6923-BF9F-476D-8C81-DB7FEC77720B}|Arrays-2\\Arrays\u0026Lists.csproj|c:\\users\\velis\\desktop\\programing\\programming-basics\\c# basics\\exercises\\arrays-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,6 +97,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D495E452-73BE-4B28-9605-30293AFC899E}|Variables\\Variables.csproj|c:\\users\\velis\\desktop\\programing\\programming-basics\\c# basics\\exercises\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D495E452-73BE-4B28-9605-30293AFC899E}|Variables\\Variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C92A532-C2BF-4E23-AF49-9AA57991943C}|StringExercises-1\\StringExercise-1.csproj|c:\\users\\velis\\desktop\\programing\\programming-basics\\c# basics\\exercises\\stringexercises-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C92A532-C2BF-4E23-AF49-9AA57991943C}|StringExercises-1\\StringExercise-1.csproj|solutionrelative:stringexercises-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -112,10 +116,23 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\trinStringExercise-4\\Program.cs",
+              "RelativeDocumentMoniker": "trinStringExercise-4\\Program.cs",
+              "ToolTip": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\trinStringExercise-4\\Program.cs",
+              "RelativeToolTip": "trinStringExercise-4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:12:35.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercise-3\\Program.cs",
               "RelativeDocumentMoniker": "StringExercise-3\\Program.cs",
-              "ToolTip": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercise-3\\Program.cs*",
-              "RelativeToolTip": "StringExercise-3\\Program.cs*",
+              "ToolTip": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercise-3\\Program.cs",
+              "RelativeToolTip": "StringExercise-3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T15:49:05.101Z",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DateTime\u0026TimeSpan.csproj",
               "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\DateTime\u0026TimeSpan\\DateTime\u0026TimeSpan.csproj",
               "RelativeDocumentMoniker": "DateTime\u0026TimeSpan\\DateTime\u0026TimeSpan.csproj",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringTimeExercise\\Program.cs",
               "RelativeDocumentMoniker": "StringTimeExercise\\Program.cs",
@@ -143,12 +160,11 @@
               "RelativeToolTip": "StringTimeExercise\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T16:54:29.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T16:54:29.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercise-2\\Program.cs",
               "RelativeDocumentMoniker": "StringExercise-2\\Program.cs",
@@ -160,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringExercises-1\\Program.cs",
               "RelativeDocumentMoniker": "StringExercises-1\\Program.cs",
@@ -172,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\StringBuilder\\Program.cs",
               "RelativeDocumentMoniker": "StringBuilder\\Program.cs",
@@ -180,12 +196,11 @@
               "RelativeToolTip": "StringBuilder\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T16:52:45.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T16:52:45.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\Strings-2\\Program.cs",
               "RelativeDocumentMoniker": "Strings-2\\Program.cs",
@@ -193,8 +208,7 @@
               "RelativeToolTip": "Strings-2\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T16:11:47.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T16:11:47.394Z"
             },
             {
               "$type": "Document",
@@ -330,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C# basics\\Exercises\\Strings\\Program.cs",
               "RelativeDocumentMoniker": "Strings\\Program.cs",
@@ -338,8 +352,7 @@
               "RelativeToolTip": "Strings\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:30:02.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T11:30:02.579Z"
             },
             {
               "$type": "Document",
