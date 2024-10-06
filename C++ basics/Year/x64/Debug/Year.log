@@ -1,0 +1,5 @@
+﻿  Year.cpp
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\C++\Year\Year.cpp(23,10): error C2106: '=': left operand must be l-value
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\C++\Year\Year.cpp(27,38): error C2059: syntax error: '||'
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\C++\Year\Year.cpp(28,6): error C2143: syntax error: missing ';' before '{'
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\C++\Year\Year.cpp(31,6): error C2181: illegal else without matching if

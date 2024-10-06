@@ -1,0 +1,5 @@
+﻿  Domashno(17.10.2023).cpp
+D:\Domashni C++\Domashno(17.10.2023)\Domashno(17.10.2023).cpp(88,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Domashni C++\Domashno(17.10.2023)\Domashno(17.10.2023).cpp(89,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Domashni C++\Domashno(17.10.2023)\Domashno(17.10.2023).cpp(139,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Domashno(17.10.2023).vcxproj -> D:\Domashni C++\Domashno(17.10.2023)\x64\Debug\Domashno(17.10.2023).exe

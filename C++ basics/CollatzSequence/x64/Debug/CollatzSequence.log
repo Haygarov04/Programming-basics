@@ -1,0 +1,3 @@
+﻿  CollatzSequence.cpp
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\Arc Academy\CollatzSequence\CollatzSequence.cpp(35,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  CollatzSequence.vcxproj -> C:\Users\HP\OneDrive\Рабочий стол\Universitet\Arc Academy\CollatzSequence\x64\Debug\CollatzSequence.exe

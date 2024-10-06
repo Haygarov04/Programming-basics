@@ -1,0 +1,4 @@
+﻿  First Project (26.09.2023).cpp
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\C++\First Project (26.09.2023)\First Project (26.09.2023)\First Project (26.09.2023).cpp(69,6): warning C4101: 'z': unreferenced local variable
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\C++\First Project (26.09.2023)\First Project (26.09.2023)\First Project (26.09.2023).cpp(83): error C4700: uninitialized local variable 'b' used
+C:\Users\HP\OneDrive\Рабочий стол\Universitet\C++\First Project (26.09.2023)\First Project (26.09.2023)\First Project (26.09.2023).cpp(83): error C4700: uninitialized local variable 'a' used
