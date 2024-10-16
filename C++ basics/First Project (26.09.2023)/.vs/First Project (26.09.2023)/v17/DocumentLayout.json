@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\First Project (26.09.2023)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1B112A-091B-45C2-93FA-A6AF880F382C}|First Project (26.09.2023)\\First Project (26.09.2023).vcxproj|C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\First Project (26.09.2023)\\First Project (26.09.2023)\\First Project (26.09.2023).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA1B112A-091B-45C2-93FA-A6AF880F382C}|First Project (26.09.2023)\\First Project (26.09.2023).vcxproj|solutionrelative:First Project (26.09.2023)\\First Project (26.09.2023).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First Project (26.09.2023).cpp",
+              "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\First Project (26.09.2023)\\First Project (26.09.2023)\\First Project (26.09.2023).cpp",
+              "RelativeDocumentMoniker": "First Project (26.09.2023)\\First Project (26.09.2023).cpp",
+              "ToolTip": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\First Project (26.09.2023)\\First Project (26.09.2023)\\First Project (26.09.2023).cpp",
+              "RelativeToolTip": "First Project (26.09.2023)\\First Project (26.09.2023).cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:42:58.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

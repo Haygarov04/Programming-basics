@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0414\u0430\u0441\u043A\u0430\u043B\u043E\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\Universitet\\Data_Of_Students\\",
+  "WorkspaceRootPath": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C48F687C-931D-44BE-9EA1-835485D90CA4}|Data_Of_Students.vcxproj|D:\\\u0414\u0430\u0441\u043A\u0430\u043B\u043E\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\Universitet\\Data_Of_Students\\Data_Of_Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C48F687C-931D-44BE-9EA1-835485D90CA4}|Data_Of_Students.vcxproj|C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\Data_Of_Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C48F687C-931D-44BE-9EA1-835485D90CA4}|Data_Of_Students.vcxproj|solutionrelative:Data_Of_Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C48F687C-931D-44BE-9EA1-835485D90CA4}|Data_Of_Students.vcxproj|D:\\\u0414\u0430\u0441\u043A\u0430\u043B\u043E\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\Universitet\\Data_Of_Students\\CDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C48F687C-931D-44BE-9EA1-835485D90CA4}|Data_Of_Students.vcxproj|C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\CDate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C48F687C-931D-44BE-9EA1-835485D90CA4}|Data_Of_Students.vcxproj|solutionrelative:CDate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48F687C-931D-44BE-9EA1-835485D90CA4}|Data_Of_Students.vcxproj|C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\CDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C48F687C-931D-44BE-9EA1-835485D90CA4}|Data_Of_Students.vcxproj|solutionrelative:CDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -21,30 +25,40 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDate.cpp",
+              "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\CDate.cpp",
+              "RelativeDocumentMoniker": "CDate.cpp",
+              "ToolTip": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\CDate.cpp",
+              "RelativeToolTip": "CDate.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T18:53:34.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CDate.h",
-              "DocumentMoniker": "D:\\\u0414\u0430\u0441\u043A\u0430\u043B\u043E\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\Universitet\\Data_Of_Students\\CDate.h",
+              "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\CDate.h",
               "RelativeDocumentMoniker": "CDate.h",
-              "ToolTip": "D:\\\u0414\u0430\u0441\u043A\u0430\u043B\u043E\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\Universitet\\Data_Of_Students\\CDate.h",
+              "ToolTip": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\CDate.h",
               "RelativeToolTip": "CDate.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-05T18:58:39.29Z"
+              "WhenOpened": "2024-10-05T18:58:39.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Data_Of_Students.cpp",
-              "DocumentMoniker": "D:\\\u0414\u0430\u0441\u043A\u0430\u043B\u043E\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\Universitet\\Data_Of_Students\\Data_Of_Students.cpp",
+              "DocumentMoniker": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\Data_Of_Students.cpp",
               "RelativeDocumentMoniker": "Data_Of_Students.cpp",
-              "ToolTip": "D:\\\u0414\u0430\u0441\u043A\u0430\u043B\u043E\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\Universitet\\Data_Of_Students\\Data_Of_Students.cpp",
-              "RelativeToolTip": "Data_Of_Students.cpp",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEYAAAAOAAAA",
+              "ToolTip": "C:\\Users\\velis\\Desktop\\Programing\\Programming-basics\\C\u002B\u002B basics\\Data_Of_Students\\Data_Of_Students.cpp*",
+              "RelativeToolTip": "Data_Of_Students.cpp*",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-05T18:58:39.359Z",
               "EditorCaption": ""
